@@ -1,0 +1,23 @@
+{
+  "name": "test-mocha-chai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandres10/test-mocha-chai.git"
+  },
+  "author": "Marlon Leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dandres10/test-mocha-chai/issues"
+  },
+  "homepage": "https://github.com/dandres10/test-mocha-chai#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
